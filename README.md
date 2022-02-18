@@ -7,14 +7,14 @@ Unity-Game-Development
 
 ## Innehåll
 
-- *[Gratis assets](#gratis-assets)*
-- *[Tutorials](#tutorials)*
-- *[Dokumentation](#dokumentation)*
-- *[Communities](#communities)*
-- *[Kurser](#kurser)*
-- *[Unity träning](#unity-träning)*
-- *[Video](#video)*
-- *[Forums](#forums)*
+* *[Gratis assets](#gratis-assets)*
+* *[Tutorials](#tutorials)*
+* *[Dokumentation](#dokumentation)*
+* *[Communities](#communities)*
+* *[Kurser](#kurser)*
+* *[Unity träning](#unity-träning)*
+* *[Video](#video)*
+* *[Forums](#forums)*
 
 ## Gratis assets
 
@@ -30,11 +30,11 @@ Unity-Game-Development
 ## Dokumentation
 
 >Dokumentation om olika verktyg i Unity som kan vara till hjälp i spel skapandet
- - [Unity editor](https://docs.unity3d.com/Manual/index.html)
- - [Scripting](https://docs.unity3d.com/ScriptReference/index.html)
- - [Asset store](https://docs.unity3d.com/Manual/AssetStore.html)
- - [Unity analytics](https://docs.unity.com/analytics/UnityAnalytics.html)
- - [Multiplay](https://docs.unity.com/multiplay/shared/welcome-to-multiplay.html)
+ * [Unity editor](https://docs.unity3d.com/Manual/index.html)
+ * [Scripting](https://docs.unity3d.com/ScriptReference/index.html)
+ * [Asset store](https://docs.unity3d.com/Manual/AssetStore.html)
+ * [Unity analytics](https://docs.unity.com/analytics/UnityAnalytics.html)
+ * [Multiplay](https://docs.unity.com/multiplay/shared/welcome-to-multiplay.html)
 
 
 ## Communities
