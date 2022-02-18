@@ -87,4 +87,10 @@ Unity-Game-Development
 
 ## Forums
 
+>Unity forums inom olika områden
+* **[Unity 2D](https://forum.unity.com/forums/2d.53/)**
+* **[Animation](https://forum.unity.com/forums/animation.52/)**
+* **[Audio och Video](https://forum.unity.com/forums/audio-video.74/)**
+* **[Multiplayer](https://forum.unity.com/forums/multiplayer.26/)**
+* **[Physics](https://forum.unity.com/forums/physics.78/)**
 
