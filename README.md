@@ -16,6 +16,7 @@ Unity-Game-Development
 * *[Video](#video)*
 * *[Forums](#forums)*
 
+
 ## Gratis assets
 
 >Gratis assets du kan använda dig av som hjälp eller för något annat syfte
@@ -25,6 +26,7 @@ Unity-Game-Development
 * **[2D Platformer Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)**
 * **[Basic Motions](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
 
+
 ## Tutorials
 >Video tutorials för olika slags spel/funktioner i Unity. Du kan använda ovannämnda Assets för dessa projekt
 * **[2D Platformer](https://www.youtube.com/watch?v=on9nwbZngyw)**
@@ -32,6 +34,7 @@ Unity-Game-Development
 * **[First Person Movement](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
 * **[Third Person Movement](https://www.youtube.com/watch?v=4HpC--2iowE)**
 * **[Skapa Terrain](https://www.youtube.com/watch?v=MWQv2Bagwgk)**
+
 
 ## Dokumentation
 
@@ -44,6 +47,14 @@ Unity-Game-Development
 
 
 ## Communities
+
+>Unity communities i olika länder
+* **[Finska Unity User Group](http://www.meetup.com/Finland-Unity-User-Group/)**
+* **[Svenska Coding After Work](http://www.codingafterwork.se/)**
+* **[Sveska Unity Meetup Stockholm](http://www.codingafterwork.se/)**
+* **[Engelska GameDev.net](https://www.gamedev.net/)**
+* **[Unity 3D Reddit](https://www.reddit.com/r/Unity3D/)**
+
 
 ## Kurser
 
