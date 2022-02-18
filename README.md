@@ -48,7 +48,7 @@ Unity-Game-Development
 
 ## Communities
 
->Unity communities på olika språk
+>Unity communities på olika språk och i olika länder
 * **[Finska Unity User Group](http://www.meetup.com/Finland-Unity-User-Group/)**
 * **[Svenska Coding After Work](http://www.codingafterwork.se/)**
 * **[Sveska Unity Meetup Stockholm](http://www.codingafterwork.se/)**
@@ -78,7 +78,7 @@ Unity-Game-Development
 
 ## Video
 
->Videos relaterade till Unity
+>Videos med olika slags hjälpmedel för Unity
 * **[100 Unity tips](https://www.youtube.com/watch?v=thA3zv0IoUM)**
 * **[Basic Principles of Game Design](https://www.youtube.com/watch?v=G8AT01tuyrk)**
 * **[Game Architecture Tips](https://www.youtube.com/watch?v=pRjTM3pzqDw)**
