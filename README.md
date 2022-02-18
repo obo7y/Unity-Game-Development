@@ -58,6 +58,14 @@ Unity-Game-Development
 
 ## Kurser
 
+>Olika slags kurser som kan vara en stor hjälp om du är osäker inom något område i Unity (vissa är betalda)
+* **[Ultimate Guide To C# Unity 2D Programming](https://www.skillshare.com/classes/The-Ultimate-Guide-To-C-Unity-2D-Programming-2022/2067738593?via=browse-rating-unity-3d-layout-grid)**
+* **[Learn Unity(video)](https://www.youtube.com/watch?v=pwZpJzpE2lQ)**
+* **[Blender Modelling for Unity](https://www.udemy.com/course/learn-blender-3d-modeling-for-unity-video-game-development/)**
+* **[Visual Effects for Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
+* **[AI in Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
+
+
 ## Unity träning
 
 ## Video
