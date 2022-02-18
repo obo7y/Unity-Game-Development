@@ -26,7 +26,7 @@ Unity-Game-Development
 * **[Basic Motions](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
 
 ## Tutorials
->Video tutorials för olika slags spel/funktioner i Unity. Du kan använda ovan nämnda Assets för dessa projekt
+>Video tutorials för olika slags spel/funktioner i Unity. Du kan använda ovannämnda Assets för dessa projekt
 * **[2D Platformer](https://www.youtube.com/watch?v=on9nwbZngyw)**
 * **[3D Spel](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
 * **[First Person Movement](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
