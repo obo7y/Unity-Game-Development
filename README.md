@@ -12,7 +12,7 @@ Unity-Game-Development
 * *[Dokumentation](#dokumentation)*
 * *[Communities](#communities)*
 * *[Kurser](#kurser)*
-* *[Unity träning](#unity-träning)*
+* *[Spel skapade med Unity](#spel-skapade-med-unity)*
 * *[Video](#video)*
 * *[Forums](#forums)*
 
@@ -27,7 +27,7 @@ Unity-Game-Development
 * **[Basic Motions](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
 
 
-## Tutorials
+## Projekt tutorials
 >Video tutorials för olika slags spel/funktioner i Unity. Du kan använda ovannämnda Assets för dessa projekt
 * **[2D Platformer](https://www.youtube.com/watch?v=on9nwbZngyw)**
 * **[3D Spel](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
@@ -66,8 +66,15 @@ Unity-Game-Development
 * **[AI in Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
 
 
-## Unity träning
+## Spel skapade med Unity
 
 ## Video
+
+>Videos relaterade till Unity
+* **[100 Unity tips](https://www.youtube.com/watch?v=thA3zv0IoUM)**
+* **[Basic Principles of Game Design](https://www.youtube.com/watch?v=G8AT01tuyrk)**
+* **[Game Architecture Tips](https://www.youtube.com/watch?v=pRjTM3pzqDw)**
+* **[Unity in 17 Minutes](https://www.youtube.com/watch?v=E6A4WvsDeLE)**
+* **[Tips and Tricks for Unity C#](https://www.youtube.com/watch?v=2tjf_QAVfpM)**
 
 ## Forums
