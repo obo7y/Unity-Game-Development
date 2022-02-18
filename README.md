@@ -21,7 +21,7 @@ Unity-Game-Development
 
 ## Dokumentation
 
->Dokumentation om verktyg i Unity
+>Dokumentation om olika verktyg i Unity som kan vara till hjälp i spel skapandet
  - [Unity editor](https://docs.unity3d.com/Manual/index.html)
  - [Scripting](https://docs.unity3d.com/ScriptReference/index.html)
  - [Asset store](https://docs.unity3d.com/Manual/AssetStore.html)
