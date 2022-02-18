@@ -3,7 +3,7 @@ Unity-Game-Development
 
 ![Header](header.jpg)
 
-### I den här Githuben kan du hitta länkar för att hjälpa dig med [Unity](https://unity.com/pages/unity-pro-buy-now?ds_rl=1295837&gclid=EAIaIQobChMIsoemz-mI9gIVU-qyCh31Vw1cEAAYASAAEgI81PD_BwE&gclsrc=aw.ds) spel utveckling.
+### I den här Githuben kan du hitta länkar för att hjälpa dig med [Unity](https://unity.com/) spel utveckling.
 
 ## Innehåll
 
