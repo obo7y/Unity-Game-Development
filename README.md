@@ -1,4 +1,4 @@
-Unity-Game-Development
+## Unity-Game-Development
 ======================
 
 ![Header](header.jpg)
@@ -95,6 +95,6 @@ Unity-Game-Development
 * **[Physics](https://forum.unity.com/forums/physics.78/)**
 
 <div align="right">
-    <b><a href="#Innehåll">Tillbaka till början</a></b>
+    <b><a href="#Unity-Game-Development">Tillbaka till början</a></b>
 </div>
 
