@@ -94,7 +94,7 @@ Unity-Game-Development
 * **[Multiplayer](https://forum.unity.com/forums/multiplayer.26/)**
 * **[Physics](https://forum.unity.com/forums/physics.78/)**
 
-<div align="right">
+<div align="middle">
     <b><a href="#Unity-Game-Development">Tillbaka till början</a></b>
 </div>
 
