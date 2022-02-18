@@ -48,7 +48,7 @@ Unity-Game-Development
 
 ## Communities
 
->Unity communities i olika länder
+>Unity communities på olika språk
 * **[Finska Unity User Group](http://www.meetup.com/Finland-Unity-User-Group/)**
 * **[Svenska Coding After Work](http://www.codingafterwork.se/)**
 * **[Sveska Unity Meetup Stockholm](http://www.codingafterwork.se/)**
