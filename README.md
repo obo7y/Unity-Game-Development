@@ -19,7 +19,7 @@ Unity-Game-Development
 ## Gratis assets
 
 >Gratis assets du kan använda dig av som hjälp eller för något annat syfte.
-- [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
+* [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
 - [3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747)
 - [Terrain Sample](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
 - [2D Platformer Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
