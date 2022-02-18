@@ -3,7 +3,7 @@ Unity-Game-Development
 
 ![Header](header.jpg)
 
-### I den här Githuben kan man hitta länkar för att hjälpa dig med Unity spel utveckling.
+### I den här Githuben kan du hitta länkar för att hjälpa dig med Unity spel utveckling.
 
 ## Innehåll
 
