@@ -6,13 +6,13 @@ Unity-Game-Development
 ### I den här Githuben kan du hitta länkar för att hjälpa dig med Unity spel utveckling.
 
 ## Innehåll
-*
-- [Gratis assets](#gratis-assets)
-- [Tutorials](#tutorials)
-- [Dokumentation](#dokumentation)
-- [Communities](#communities)
-- [Kurser](#kurser)
-- [Unity träning](#unity-träning)
+
+- *[Gratis assets](#gratis-assets)*
+- *[Tutorials](#tutorials)*
+- *[Dokumentation](#dokumentation)*
+- *[Communities](#communities)*
+- *[Kurser](#kurser)*
+- *[Unity träning](#unity-träning)*
 - *[Video](#video)*
 - *[Forums](#forums)*
 
