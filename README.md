@@ -26,7 +26,12 @@ Unity-Game-Development
 * **[Basic Motions](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
 
 ## Tutorials
->Video tutorials för olika slags spel/funktioner i Unity
+>Video tutorials för olika slags spel/funktioner i Unity, du kan använda ovan nämnda Assets för dessa projekt
+* **[2D Platformer](https://www.youtube.com/watch?v=on9nwbZngyw)**
+* **[3D Spel](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
+* **[First Person Movement](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
+* **[Third Person Movement](https://www.youtube.com/watch?v=4HpC--2iowE)**
+* **[Skapa Terrain](https://www.youtube.com/watch?v=MWQv2Bagwgk)**
 
 ## Dokumentation
 
