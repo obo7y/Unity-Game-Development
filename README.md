@@ -21,10 +21,10 @@ Unity-Game-Development
 
 >Gratis assets du kan använda som hjälp eller för något annat syfte
 * **[Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)**
-* **[3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747)**
+* **[3D Spel Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747)**
 * **[Terrain Sample](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)**
 * **[2D Platformer Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)**
-* **[Basic Motions](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
+* **[Bas Rörelser](https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271)**
 
 
 ## Projekt tutorials
@@ -60,10 +60,10 @@ Unity-Game-Development
 
 >Olika slags kurser som kan vara en stor hjälp om du är osäker inom något område i Unity (vissa är betalda)
 * **[Ultimate Guide To C# Unity 2D Programming](https://www.skillshare.com/classes/The-Ultimate-Guide-To-C-Unity-2D-Programming-2022/2067738593?via=browse-rating-unity-3d-layout-grid)**
-* **[Learn Unity (video)](https://www.youtube.com/watch?v=pwZpJzpE2lQ)**
-* **[Blender Modelling for Unity](https://www.udemy.com/course/learn-blender-3d-modeling-for-unity-video-game-development/)**
-* **[Visual Effects for Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
-* **[AI in Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
+* **[Lär Unity (video)](https://www.youtube.com/watch?v=pwZpJzpE2lQ)**
+* **[Blender Modellering för Unity](https://www.udemy.com/course/learn-blender-3d-modeling-for-unity-video-game-development/)**
+* **[Visuella effekter för Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
+* **[AI i Unity](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/)**
 
 
 ## Spel skapade med Unity
@@ -80,10 +80,10 @@ Unity-Game-Development
 
 >Videos med olika slags hjälpmedel för Unity
 * **[100 Unity tips](https://www.youtube.com/watch?v=thA3zv0IoUM)**
-* **[Basic Principles of Game Design](https://www.youtube.com/watch?v=G8AT01tuyrk)**
-* **[Game Architecture Tips](https://www.youtube.com/watch?v=pRjTM3pzqDw)**
-* **[Unity in 17 Minutes](https://www.youtube.com/watch?v=E6A4WvsDeLE)**
-* **[Tips and Tricks for Unity C#](https://www.youtube.com/watch?v=2tjf_QAVfpM)**
+* **[Bas Principer av Speldesign](https://www.youtube.com/watch?v=G8AT01tuyrk)**
+* **[Spel Arkitektur Tips](https://www.youtube.com/watch?v=pRjTM3pzqDw)**
+* **[Unity in 17 Minuter](https://www.youtube.com/watch?v=E6A4WvsDeLE)**
+* **[Tips och Tricks för Unity C#](https://www.youtube.com/watch?v=2tjf_QAVfpM)**
 
 ## Forums
 
