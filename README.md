@@ -31,7 +31,7 @@ Unity-Game-Development
 >Video tutorials för olika slags spel/funktioner i Unity. Du kan använda ovannämnda Assets för dessa projekt
 * **[2D Platformer](https://www.youtube.com/watch?v=on9nwbZngyw)**
 * **[3D Spel](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
-* **[First Person Movement](https://www.youtube.com/watch?v=n0GQL5JgJcY)**
+* **[First Person Movement](https://www.youtube.com/watch?v=_QajrabyTJc)**
 * **[Third Person Movement](https://www.youtube.com/watch?v=4HpC--2iowE)**
 * **[Skapa Terrain](https://www.youtube.com/watch?v=MWQv2Bagwgk)**
 
